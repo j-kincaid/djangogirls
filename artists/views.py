@@ -4,7 +4,7 @@ from django.http import HttpResponse
 
 
 def artists(request):
-    return HttpResponse('Submitting Artists')
+    return render(request, 'artists.html')
 
 def artist(request):
     return HttpResponse('Individual Artist')
