@@ -4,7 +4,7 @@ from django.http import HttpResponse
 
 
 def submissions(request):
-    return render(request, 'submissions.html')
+    return HttpResponse('Submissions')
 
 def submission(request):
     return HttpResponse('Individual Submission')
