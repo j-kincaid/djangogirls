@@ -12,4 +12,3 @@ FEATURES:
 - Admin(s) complete fields for applicants, selection criteria, scoring, comments, etc., as much data as they need
 - Panelists can create, read, update, and delete their own entries until the "deadline". 
 - Administrator can create a report displaying scoring and any fields as desired. 
-# 2022_djangogirls
